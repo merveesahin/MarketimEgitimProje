@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "y1enTt/GSnaupSmd6DBPPnb5n3bk/jukp4Vn7cW8TpZ/9kLJ9239EYRjcZBdXQoJdp+iR0ld7tp73rZhlc654Q==",
+  "dgSpecHash": "3nNhs7Jz63ly0A83FcsIs1nEJNWZinfS/IyadYQfLgx1mLOlq+XMnLHKEmwMr2IiPsQlwSgV7HFkiC0GBeHG5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\musta\\Desktop\\Marketim\\Marketim\\Marketim.Web.API\\Marketim.Web.API.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\merves\\Desktop\\marketim+son\\Marketim\\Marketim.Web.API\\Marketim.Web.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\Desktop\\Marketim\\Marketim\\Marketim.Entity\\Marketim.Entity.csproj": {}
+    "C:\\Users\\merves\\Desktop\\marketim+son\\Marketim\\Marketim.Entity\\Marketim.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\Desktop\\Marketim\\Marketim\\Marketim.Entity\\Marketim.Entity.csproj": {
+    "C:\\Users\\merves\\Desktop\\marketim+son\\Marketim\\Marketim.Entity\\Marketim.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\Desktop\\Marketim\\Marketim\\Marketim.Entity\\Marketim.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\merves\\Desktop\\marketim+son\\Marketim\\Marketim.Entity\\Marketim.Entity.csproj",
         "projectName": "Marketim.Entity",
-        "projectPath": "C:\\Users\\musta\\Desktop\\Marketim\\Marketim\\Marketim.Entity\\Marketim.Entity.csproj",
-        "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\Desktop\\Marketim\\Marketim\\Marketim.Entity\\obj\\",
+        "projectPath": "C:\\Users\\merves\\Desktop\\marketim+son\\Marketim\\Marketim.Entity\\Marketim.Entity.csproj",
+        "packagesPath": "C:\\Users\\merves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merves\\Desktop\\marketim+son\\Marketim\\Marketim.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\merves\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
